@@ -168,7 +168,7 @@ nav a:hover {
 }
 
 .menu-card {
-  padding: 40px;
+  padding: 30px;
 
   background: white;
 
@@ -191,7 +191,7 @@ nav a:hover {
 .menu-item {
   display: flex;
   justify-content: space-between;
-  gap: 20px;
+  gap: 30px;
   padding: 12px 0;
   border-bottom: 1px solid #eadfd7;
 }
@@ -205,9 +205,9 @@ nav a:hover {
 }
 
 .menu-note {
-  margin-top: 20px;
-  font-size: 14px;
-  line-height: 1.6;
+  margin-top: 15px;
+  font-size: 12px;
+  line-height: 1.0;
   color: #826e62;
 }
 @media (max-width: 700px) {
